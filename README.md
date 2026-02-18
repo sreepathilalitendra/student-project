@@ -1,4 +1,4 @@
-#Student Record Management System
+Student Record Management System
 
 This is a simple Python-based project that allows users to manage student records.
 
